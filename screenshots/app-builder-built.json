@@ -1,0 +1,42 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pulse Scalper",
+      "hasCanvas": false,
+      "bodyTextLen": 880,
+      "bodyTextHash": "8663554189cd3557a8983e2e5c9f58b52611d977d7cc4d07f890f83e9f6d7a7d",
+      "bodyTextPrefix": "TOOBIT FUTURES DEMO Pulse Scalper همان رباتی که در گفتگو ساختیم:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pulse Scalper",
+      "hasCanvas": false,
+      "bodyTextLen": 879,
+      "bodyTextHash": "a7ca386fd8e17521076aba8e6207b25a559230825a75353686bce9d7f436580e",
+      "bodyTextPrefix": "TOOBIT FUTURES DEMO Pulse Scalper همان رباتی که در گفتگو ساختیم:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: console/page errors appeared (1)"
+  ]
+}

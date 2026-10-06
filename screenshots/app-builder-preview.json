@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pulse Scalper",
+      "hasCanvas": false,
+      "bodyTextLen": 880,
+      "bodyTextHash": "94ce4ddc05df737eeafc11340070f9faf935bf5ec79f9bc99387f91f4ef24790",
+      "bodyTextPrefix": "TOOBIT FUTURES DEMO Pulse Scalper همان رباتی که در گفتگو ساختیم:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pulse Scalper",
+      "hasCanvas": false,
+      "bodyTextLen": 879,
+      "bodyTextHash": "c5ce203622ab6a20de0a6063ae58e0bddc2734e143a092f9e0dedfdd9ebde551",
+      "bodyTextPrefix": "TOOBIT FUTURES DEMO Pulse Scalper همان رباتی که در گفتگو ساختیم:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
